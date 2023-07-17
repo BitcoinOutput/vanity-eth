@@ -30,7 +30,7 @@
     },
     "devDependencies": {
         "@bokub/prettier-config": "^1.1.0",
-        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-babel": "~4.5.19",
         "@vue/cli-plugin-eslint": "~4.5.0",
         "@vue/cli-plugin-pwa": "~4.5.0",
         "@vue/cli-service": "~4.5.0",
