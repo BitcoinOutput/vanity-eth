@@ -16,7 +16,7 @@
     "prettier": "@bokub/prettier-config",
     "dependencies": {
         "blockies": "^0.0.2",
-        "bootstrap": "^4.6.0",
+        "bootstrap": "^5.0.0",
         "core-js": "^3.6.5",
         "crypto-js": "^3.3.0",
         "downloadjs": "^1.4.7",
